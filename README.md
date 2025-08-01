@@ -6,4 +6,4 @@ A property management company that helps you land your next home.
 
 ![Landing Page](/src/assets/real-estate-home.png)
 
-![Demo of the website](/src/assets/real-estate-sentinel.webm)
+![Demo of the website](/src/assets/home-about.webm)
